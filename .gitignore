@@ -1,0 +1,12 @@
+
+# Database
+db.sqlite3
+
+# Cache
+__pycache__
+
+# VS Code 
+.vscode 
+
+# Venv 
+env_loans
